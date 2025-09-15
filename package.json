@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "expo-dev-client": "^6.0.12",
+    "firebase": "^12.2.1"
+  },
+  "devDependencies": {
+    "typescript": "~5.9.2",
+    "@types/react": "~19.1.10"
+  }
+}

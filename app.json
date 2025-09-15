@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "76af042d-21ab-4ebf-ae00-babf35f749e4"
+      }
+    },
+    "android": {
+      "package": "com.keithandri.otakusnest"
+    }
+  }
+}
