@@ -1,1 +1,0 @@
-"# OtakusNest_AnimeList" 
